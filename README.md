@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Corbin</h1>
 <h3 align="center">An emerging Full Stack Developer from Canada 🇨🇦</h3>
 
-- 🔭 I’m currently working on **Golf-Leagues passion project**
+- 🔭 I’m currently working on **Golf League creation/tracker web app as a passion project!**
 
 - 🌱 I’m currently learning **advanced React topics**
 
