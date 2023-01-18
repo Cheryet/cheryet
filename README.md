@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Corbin</h1>
+<h1 align="center">Hi 👋, I'm Corbin</h1>  <img src="https://media0.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="150" height='150'/>
 <h3 align="center">An emerging Full Stack Developer from Canada 🇨🇦</h3>
 
 - 🔭 I’m currently working on **Golf Leagues web app as a passion project!**
