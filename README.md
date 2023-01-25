@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Golf Leagues web app as a passion project!**
 
-- 🌱 I’m currently learning **advanced React topics**
+- 🌱 I’m currently learning **data structures and algorithms**
 
 - 📫 How to reach me **C.Heryet@outlook.com**
 
