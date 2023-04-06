@@ -4,15 +4,7 @@
 <h1 align="center">Hi 👋, I'm Corbin</h1>  
 <h3 align="center">An emerging Full Stack Developer from Canada 🇨🇦</h3>
 
-- 🔭 I’m currently working on **Golf Leagues web app as a passion project!**
-
-- 🌱 I’m currently learning **data structures and algorithms**
-
 - 📫 How to reach me **C.Heryet@outlook.com**
-
-- 📄 Know about my experiences [https://resume.creddle.io/resume/ix7wr9y7gq2](https://resume.creddle.io/resume/ix7wr9y7gq2)
-
-- ⚡ Fun fact **Im an avid golfer!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
